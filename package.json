@@ -1,0 +1,22 @@
+{
+    "name": "moosik",
+    "version": "1.0.0",
+    "author": "Gryffon Bellish <owenbellish@gmail.com>",
+    "main": "./index.js",
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "dependencies": {
+        "discord.js": "discordjs/discord.js",
+        "dotenv": "^6.2.0",
+        "fs-nextra": "^0.4.3",
+        "node-opus": "^0.3.1",
+        "util": "^0.11.1",
+        "ytdl-core": "^0.29.1"
+    },
+    "devDependencies": {
+        "eslint": "^5.14.1"
+    },
+    "optionalDependencies": {},
+    "peerDependencies": {}
+}
